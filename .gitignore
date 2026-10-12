@@ -217,6 +217,9 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-
+# Test Folders files
 Twitter Test/ 
 Elec24 Test/Elec2024_test copy.ipynb
+
+# Parquet Files
+*.parquet
