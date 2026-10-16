@@ -219,7 +219,11 @@ __marimo__/
 
 # Test Folders files
 Twitter Test/ 
+New_Elec24Test/
 Elec24 Test/Elec2024_test copy.ipynb
 
 # Parquet Files
 *.parquet
+
+# CSV Files
+*.csv
