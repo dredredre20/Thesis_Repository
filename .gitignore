@@ -218,6 +218,7 @@ __marimo__/
 .streamlit/secrets.toml
 
 # Test Folders files
+Past_Testing/
 Twitter Test/ 
 New_Elec24Test/
 Elec24 Test/Elec2024_test copy.ipynb
