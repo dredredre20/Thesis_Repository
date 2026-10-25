@@ -228,3 +228,5 @@ Elec24 Test/Elec2024_test copy.ipynb
 
 # CSV Files
 *.csv
+
+data/
